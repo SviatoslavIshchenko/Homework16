@@ -1,0 +1,14 @@
+.venv
+
+.idea
+
+.exe
+
+.tmp
+
+.obj
+
+/Part1/file1.exe
+/Part1/file2.exe
+/Part1/file3.tmp
+/Part1/file4.obj
